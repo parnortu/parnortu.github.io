@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://parnortu.github.io/sitemap.html.gz
+Sitemap: https://parnortu.github.io/app/sitemap.html.gz
+Sitemap: https://parnortu.github.io/assets/sitemap.html.gz
+Sitemap: https://parnortu.github.io/css/sitemap.html.gz
+Sitemap: https://parnortu.github.io/includes/sitemap.html.gz
+Sitemap: https://parnortu.github.io/item/sitemap.html.gz
+Sitemap: https://parnortu.github.io/src/sitemap.html.gz
